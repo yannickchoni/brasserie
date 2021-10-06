@@ -1,7 +1,7 @@
 package com.brasserie.livraison
 
+import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import com.brasserie.livraison.databinding.ActivityMainBinding
 
@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         Thread{
             Thread.sleep(3000)
-            Log.e("H","HELLO")
+            startActivity(Intent(this,HomeActivity::class.java))
         }.start()
     }
 }

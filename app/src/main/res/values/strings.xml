@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Brasserie Livraison</string>
+    <string name="title_activity_home">Clients</string>
 </resources>

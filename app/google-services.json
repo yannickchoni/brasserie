@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "163980980",
+    "project_id": "brasserie-4678c",
+    "storage_bucket": "brasserie-4678c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163980980:android:008dc0a65fdb3b95f8d9e1",
+        "android_client_info": {
+          "package_name": "com.brasserie.livraison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163980980-9l6a0dbgvh2aiht8trt26i7l714qvd0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brasserie.livraison",
+            "certificate_hash": "fac85a2412c6b80332765a1eb84739ddda3a3bc7"
+          }
+        },
+        {
+          "client_id": "163980980-av0gfe3f1a6l95aqv6khirk6aeqbop37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHA0FTq8k7XusFWNH26Iga-VxVgMFIyhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163980980-av0gfe3f1a6l95aqv6khirk6aeqbop37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
